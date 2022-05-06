@@ -1,0 +1,22 @@
+{
+    "name": "yng/validator",
+    "description": "A simple validator.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "homepage": "https://www.chinaqe.cn",
+    "authors": [
+        {
+            "name": "yng",
+            "homepage": "https://www.chinaqe.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yng\\Validator\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-mbstring": "*"
+    }
+}
