@@ -1,4 +1,4 @@
-# 使用
+# yng-validator使用
 
 ```php
 $validator = new \Yng\Validator\Validator();
